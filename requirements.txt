@@ -1,0 +1,8 @@
+pdftotext
+dearpygui
+pandas
+sklearn
+jieba
+matplotlib
+tqdm
+regex
